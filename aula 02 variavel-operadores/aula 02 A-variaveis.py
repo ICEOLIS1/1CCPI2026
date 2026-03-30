@@ -1,6 +1,6 @@
 print('hello world')
 print(7+4)
-print('7+4')
+print('7 + 4')
 print("7"+"4") #estou concatenando strings
 #são cometarios de 1 linha no python
 '''
@@ -19,5 +19,3 @@ nome= input("digite seu nome")
 idade= input("digite sua idade")
 peso =input ("digite seu peso")
     print nome, idade, peso
-)
-)
